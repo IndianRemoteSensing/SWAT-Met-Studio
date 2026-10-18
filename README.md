@@ -10,8 +10,8 @@ Define your study region, prepare a station grid, review station locations and e
 
 | Resource | Link |
 | --- | --- |
-| Free download and purchase | [Official download page](https://www.indiaremotesensing.com/p/swat-met-studio-download.html) |
-| Download from GitHub | [GitHub Releases](https://github.com/IndianRemoteSensing/SWAT-Met-Studio/releases) |
+| Software Purchase | [Official download page](https://www.indiaremotesensing.com/p/swat-met-studio-download.html) |
+| Free Download from GitHub | [GitHub Releases](https://github.com/IndianRemoteSensing/SWAT-Met-Studio/releases) |
 | Tutorial video | Coming soon |
 | User manual | Coming soon |
 
