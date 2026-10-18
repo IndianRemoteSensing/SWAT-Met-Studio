@@ -1,31 +1,88 @@
-# SWAT-Met Studio
+# 🌦️ SWAT-Met Studio
 
 ### Daily weather data preparation for SWAT modelling
+
+![Windows desktop](https://img.shields.io/badge/Platform-Windows-0078D4?style=for-the-badge)
+![NASA POWER data](https://img.shields.io/badge/Data-NASA_POWER-1E3A8A?style=for-the-badge)
+![SWAT weather outputs](https://img.shields.io/badge/Output-SWAT_Weather-0F766E?style=for-the-badge)
 
 **SWAT-Met Studio** is a Windows desktop application that helps researchers and hydrological modellers download daily weather data from NASA POWER and prepare weather input files for the Soil and Water Assessment Tool (SWAT).
 
 Define your study region, prepare a station grid, review station locations and elevations, and generate organised SWAT weather files from one workspace.
 
-## Download and purchase
+[![Free download](https://img.shields.io/badge/Free_Download-GitHub_Releases-2563EB?style=for-the-badge)](https://github.com/IndianRemoteSensing/SWAT-Met-Studio/releases)
+[![Purchase activation](https://img.shields.io/badge/Purchase-Activation-16A34A?style=for-the-badge)](https://www.indiaremotesensing.com/p/swat-met-studio-download.html)
+
+## 🚀 Download and purchase
 
 | Resource | Link |
 | --- | --- |
-| Software Purchase | [Official Page](https://www.indiaremotesensing.com/p/swat-met-studio-download.html) |
-| Free Download from GitHub | [GitHub Releases](https://github.com/IndianRemoteSensing/SWAT-Met-Studio/releases) |
+| Software purchase | [Official purchase page](https://www.indiaremotesensing.com/p/swat-met-studio-download.html) |
+| Free download from GitHub | [GitHub Releases](https://github.com/IndianRemoteSensing/SWAT-Met-Studio/releases) |
 | Tutorial video | Coming soon |
 | User manual | Coming soon |
 
-<!--
-When available, replace the corresponding "Coming soon" entries above with:
-[Watch the tutorial](YOUR_YOUTUBE_URL)
-[Read the user manual](YOUR_USER_MANUAL_URL)
--->
-
 Download the Windows installer from the official website or GitHub Releases, install the application, and launch SWAT-Met Studio.
 
-One trial download is available before activation. Visit the official download page for purchase and activation information.
+## 🎁 Free trial and pricing
 
-## What you can do
+> **Free to process a single study area once.**
+>
+> Try one completed processing run for your study area before purchasing activation. Activation is required for further processing runs.
+
+| Option | Price |
+| --- | --- |
+| 🟢 Free trial | **Free — one processing run for a single study area** |
+| 🇮🇳 Activation for users in India | **₹995 INR** |
+| 🌍 Activation for users in all other countries | **US$10 USD** |
+
+Ready to continue after your trial? Visit the [official purchase page](https://www.indiaremotesensing.com/p/swat-met-studio-download.html).
+
+## 🔑 How to activate SWAT-Met Studio
+
+### 1. Open the activation window
+
+Launch SWAT-Met Studio on the computer you will use for processing. Click **Activate…** in the upper-right corner of the main window.
+
+### 2. Enter your name and email
+
+Enter your **name** and **email address** in the activation window. Use the same details when requesting your activation code.
+
+### 3. Copy your request code
+
+The application generates a **Request code** automatically for your computer. Click **Copy request code** to copy the complete code accurately.
+
+### 4. Purchase and request activation
+
+Click **Purchase** in the activation window, or visit the [official purchase page](https://www.indiaremotesensing.com/p/swat-met-studio-download.html), to complete your purchase.
+
+Provide the following details with your activation request:
+
+```text
+Name:
+Email address:
+Request code:
+```
+
+Send your activation details to [swatmetstudio@gmail.com](mailto:swatmetstudio@gmail.com).
+
+### 5. Receive your activation code
+
+Your activation code will be delivered to your email **within 24 hours of purchase**.
+
+### 6. Apply your activation code
+
+Return to the activation window on the **same computer**:
+
+1. Enter the same **name** and **email address** used for your activation request.
+2. Paste the complete code received by email into the **Activation code** box.
+3. Click **Activate**.
+
+After successful activation, your registered name appears in the upper-right corner of the main window, and the **Activate…** button disappears.
+
+> **Request code and activation code are different:** the application creates the request code; you receive the activation code after purchase. Activation is linked to the computer that generated the request code.
+
+## 🌦️ What you can do
 
 ### Download daily weather data
 
@@ -33,11 +90,11 @@ Choose a year range and download the weather variables needed for your study:
 
 | Weather variable | Daily information |
 | --- | --- |
-| Precipitation | Daily precipitation |
-| Temperature | Maximum and minimum temperature |
-| Relative humidity | Daily relative humidity |
-| Solar radiation | Daily solar radiation |
-| Wind speed | Daily wind speed |
+| 🌧️ Precipitation | Daily precipitation |
+| 🌡️ Temperature | Maximum and minimum temperature |
+| 💧 Relative humidity | Daily relative humidity |
+| ☀️ Solar radiation | Daily solar radiation |
+| 🌬️ Wind speed | Daily wind speed |
 
 Select individual variables or generate all five together.
 
@@ -95,7 +152,7 @@ Index files include station identifiers, names, latitude, longitude, and elevati
 
 Each completed export is saved in a separate run folder, keeping earlier results available.
 
-## A simple workflow
+## 🧭 A simple workflow
 
 1. **Define the region** — enter geographic bounds, a year range, and station spacing.
 2. **Choose elevations** — use NASA POWER elevations or select a DEM.
@@ -106,7 +163,7 @@ Each completed export is saved in a separate run folder, keeping earlier results
 
 An internet connection is required to download NASA POWER weather data.
 
-## What is included in an export?
+## 📁 What is included in an export?
 
 Completed runs use a folder name containing the selected year range and a three-digit export number, for example:
 
@@ -143,19 +200,29 @@ SWAT-Met Studio supports watershed researchers, students, and hydrological model
 
 NASA POWER provides gridded weather data. Review the downloaded and filled records for suitability in your study area and, where possible, compare them with local observations before calibration or interpretation of model results.
 
-## Tutorials and documentation
+## 📚 Tutorials and documentation
 
 - **Tutorial video:** Coming soon. A YouTube link will be added here.
 - **User manual:** Coming soon. A documentation link will be added here.
 
-## Screenshots
+<!--
+When available, replace the corresponding "Coming soon" entries with:
+[Watch the tutorial](YOUR_YOUTUBE_URL)
+[Read the user manual](YOUR_USER_MANUAL_URL)
+-->
+
+## 📸 Screenshots
 
 <!--
 Add software screenshots here:
 - Main workspace
 - DEM preview and station grid
 - Station table
+- Activation window
 - Generated output folders
+
+Example, after adding the image to the repository:
+![SWAT-Met Studio workspace](images/main-workspace.png)
 -->
 
 ## Developer and support
