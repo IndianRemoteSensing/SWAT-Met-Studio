@@ -10,6 +10,12 @@
 
 Define your study region, prepare a station grid, review station locations and elevations, and generate organised SWAT weather files from one workspace.
 
+### Supported modelling workflows
+
+SWAT-Met Studio prepares daily weather inputs for **QSWAT in QGIS**, **ArcSWAT for ArcGIS Pro**, and **SWAT+ modelling workflows**. It generates daily precipitation, maximum and minimum temperature, relative humidity, solar radiation, and wind speed records, together with station coordinates and elevations.
+
+The exported weather files use **SWAT2012 text format**. For **SWAT+ tools**, import these files through **SWAT+ Editor's SWAT2012 weather-data import workflow**, as described in the [official SWAT+ Quick Start Guide](https://swat.tamu.edu/software/quick-start/).
+
 ### Features at a glance
 
 - Download daily precipitation, temperature, relative humidity, solar radiation, and wind speed.
