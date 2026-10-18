@@ -10,77 +10,19 @@
 
 Define your study region, prepare a station grid, review station locations and elevations, and generate organised SWAT weather files from one workspace.
 
+### Features at a glance
+
+- Download daily precipitation, temperature, relative humidity, solar radiation, and wind speed.
+- Prepare an adjustable station grid and use NASA POWER or DEM-based elevations.
+- Preview terrain and station locations, then export maps and the station table.
+- Fill missing weather values and inspect the processed station CSV files.
+- Generate SWAT weather files and matching station indexes in organised export folders.
+
+## 🚀 Download
+
 [![Free download](https://img.shields.io/badge/Free_Download-GitHub_Releases-2563EB?style=for-the-badge)](https://github.com/IndianRemoteSensing/SWAT-Met-Studio/releases)
-[![Purchase activation](https://img.shields.io/badge/Purchase-Activation-16A34A?style=for-the-badge)](https://www.indiaremotesensing.com/p/swat-met-studio-download.html)
 
-## 🚀 Download and purchase
-
-| Resource | Link |
-| --- | --- |
-| Software purchase | [Official purchase page](https://www.indiaremotesensing.com/p/swat-met-studio-download.html) |
-| Free download from GitHub | [GitHub Releases](https://github.com/IndianRemoteSensing/SWAT-Met-Studio/releases) |
-| Tutorial video | Coming soon |
-| User manual | Coming soon |
-
-Download the Windows installer from the official website or GitHub Releases, install the application, and launch SWAT-Met Studio.
-
-## 🎁 Free trial and pricing
-
-> **Free to process a single study area once.**
->
-> Try one completed processing run for your study area before purchasing activation. Activation is required for further processing runs.
-
-| Option | Price |
-| --- | --- |
-| 🟢 Free trial | **Free — one processing run for a single study area** |
-| 🇮🇳 Activation for users in India | **₹995 INR** |
-| 🌍 Activation for users in all other countries | **US$10 USD** |
-
-Ready to continue after your trial? Visit the [official purchase page](https://www.indiaremotesensing.com/p/swat-met-studio-download.html).
-
-## 🔑 How to activate SWAT-Met Studio
-
-### 1. Open the activation window
-
-Launch SWAT-Met Studio on the computer you will use for processing. Click **Activate…** in the upper-right corner of the main window.
-
-### 2. Enter your name and email
-
-Enter your **name** and **email address** in the activation window. Use the same details when requesting your activation code.
-
-### 3. Copy your request code
-
-The application generates a **Request code** automatically for your computer. Click **Copy request code** to copy the complete code accurately.
-
-### 4. Purchase and request activation
-
-Click **Purchase** in the activation window, or visit the [official purchase page](https://www.indiaremotesensing.com/p/swat-met-studio-download.html), to complete your purchase.
-
-Provide the following details with your activation request:
-
-```text
-Name:
-Email address:
-Request code:
-```
-
-Send your activation details to [swatmetstudio@gmail.com](mailto:swatmetstudio@gmail.com).
-
-### 5. Receive your activation code
-
-Your activation code will be delivered to your email **within 24 hours of purchase**.
-
-### 6. Apply your activation code
-
-Return to the activation window on the **same computer**:
-
-1. Enter the same **name** and **email address** used for your activation request.
-2. Paste the complete code received by email into the **Activation code** box.
-3. Click **Activate**.
-
-After successful activation, your registered name appears in the upper-right corner of the main window, and the **Activate…** button disappears.
-
-> **Request code and activation code are different:** the application creates the request code; you receive the activation code after purchase. Activation is linked to the computer that generated the request code.
+Get the Windows installer from the [GitHub Releases page](https://github.com/IndianRemoteSensing/SWAT-Met-Studio/releases), install the application, and launch SWAT-Met Studio.
 
 ## 🌦️ What you can do
 
@@ -233,4 +175,64 @@ Example, after adding the image to the repository:
 
 **Website:** [www.indiaremotesensing.com](https://www.indiaremotesensing.com/)
 
-For downloads, purchase, and activation information, visit the [SWAT-Met Studio download page](https://www.indiaremotesensing.com/p/swat-met-studio-download.html).
+## 🔑 Purchase and activation
+
+[![Purchase activation](https://img.shields.io/badge/Purchase-Activation-16A34A?style=for-the-badge)](https://www.indiaremotesensing.com/p/swat-met-studio-download.html)
+
+### Free trial and pricing
+
+> **Free to process a single study area once.**
+>
+> Try one completed processing run for your study area before purchasing activation. Activation is required for further processing runs.
+
+| Option | Price |
+| --- | --- |
+| 🟢 Free trial | **Free — one processing run for a single study area** |
+| 🇮🇳 Activation for users in India | **₹995 INR** |
+| 🌍 Activation for users in all other countries | **US$10 USD** |
+
+Ready to continue after your trial? Visit the [official purchase page](https://www.indiaremotesensing.com/p/swat-met-studio-download.html).
+
+### How to activate SWAT-Met Studio
+
+#### 1. Open the activation window
+
+Launch SWAT-Met Studio on the computer you will use for processing. Click **Activate…** in the upper-right corner of the main window.
+
+#### 2. Enter your name and email
+
+Enter your **name** and **email address** in the activation window. Use the same details when requesting your activation code.
+
+#### 3. Copy your request code
+
+The application generates a **Request code** automatically for your computer. Click **Copy request code** to copy the complete code accurately.
+
+#### 4. Purchase and request activation
+
+Click **Purchase** in the activation window, or visit the [official purchase page](https://www.indiaremotesensing.com/p/swat-met-studio-download.html), to complete your purchase.
+
+Provide the following details with your activation request:
+
+```text
+Name:
+Email address:
+Request code:
+```
+
+Send your activation details to [swatmetstudio@gmail.com](mailto:swatmetstudio@gmail.com).
+
+#### 5. Receive your activation code
+
+Your activation code will be delivered to your email **within 24 hours of purchase**.
+
+#### 6. Apply your activation code
+
+Return to the activation window on the **same computer**:
+
+1. Enter the same **name** and **email address** used for your activation request.
+2. Paste the complete code received by email into the **Activation code** box.
+3. Click **Activate**.
+
+After successful activation, your registered name appears in the upper-right corner of the main window, and the **Activate…** button disappears.
+
+> **Request code and activation code are different:** the application creates the request code; you receive the activation code after purchase. Activation is linked to the computer that generated the request code.
