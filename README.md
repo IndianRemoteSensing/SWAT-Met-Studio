@@ -205,27 +205,21 @@ Ready to continue after your trial? Visit the [official purchase page](https://w
 
 Launch SWAT-Met Studio on the computer you will use for processing. Click **Activate…** in the upper-right corner of the main window.
 
-#### 2. Enter your name and email
-
-Enter your **name** and **email address** in the activation window. Use the same details when requesting your activation code.
-
-#### 3. Copy your request code
+#### 2. Copy your request code
 
 The application generates a **Request code** automatically for your computer. Click **Copy request code** to copy the complete code accurately.
 
-#### 4. Purchase and request activation
+#### 3. Purchase and request activation
 
-Click **Purchase** in the activation window, or visit the [official purchase page](https://www.indiaremotesensing.com/p/swat-met-studio-download.html), to complete your purchase.
+Click **Purchase** During Purchase enter your **name** , **email** and **Request Code** and complete the payment. [official purchase page](https://www.indiaremotesensing.com/p/swat-met-studio-download.html),
 
-Provide the following details with your activation request:
+Enter the following details on purchase page:
 
 ```text
 Name:
 Email address:
 Request code:
 ```
-
-Send your activation details to [swatmetstudio@gmail.com](mailto:swatmetstudio@gmail.com).
 
 #### 5. Receive your activation code
 
